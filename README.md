@@ -24,7 +24,7 @@ Fontes selecionadas e carregadas no NotebookLM:
 |---|-------|------|------|
 | 1 | PostgreSQL Docs — LISTEN | Documentação oficial | https://www.postgresql.org/docs/current/sql-listen.html |
 | 2 | PostgreSQL Docs — NOTIFY | Documentação oficial | https://www.postgresql.org/docs/current/sql-notify.html |
-| 3 | Postgres Triggers with Listen/Notify — LaunchPad Lab (Medium) | Artigo técnico | https://medium.com/launchpad-lab/postgres-triggers-with-listen-notify-565b44ccd782 |
+| 3 | PostgreSQL Docs — CREATE TRIGGER | Documentação oficial | https://www.postgresql.org/docs/current/sql-createtrigger.html |
 | 4 | tcn — trigger function to notify listeners (PostgreSQL Docs) | Documentação oficial | https://www.postgresql.org/docs/current/tcn.html |
 | 5 | Notify Triggers in PostgreSQL — Yarsa Labs Blog | Artigo prático (com Node.js) | https://blog.yarsalabs.com/notify-triggers-in-postgresql/ |
 
